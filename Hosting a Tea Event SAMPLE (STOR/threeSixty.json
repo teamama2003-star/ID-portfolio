@@ -1,0 +1,168 @@
+{
+  "version": "3.123.37616.0",
+  "course_id": "6cWtjAr4zya",
+  "title": "Hosting a Tea Event SAMPLE (STORYLINE)",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Contents"
+    },
+    {
+      "title": "Theme"
+    },
+    {
+      "title": "Treats"
+    },
+    {
+      "title": "Leaves"
+    },
+    {
+      "title": "Vessels"
+    },
+    {
+      "title": "Other Tools of Service"
+    },
+    {
+      "title": "Assessment"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5mlT8yvCisK",
+      "title": "Opening",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5y2KcS490jh",
+      "title": "Course Objectives",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6LgHF2aTf8u",
+      "title": "Ingredients to Consider",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6aproOxboNK",
+      "title": "Transition to Theme",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5paHo6mlGqk",
+      "title": "Theme Prep",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6lrB2jC2Yd0",
+      "title": "Theme 2",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5Vz22Ym9NtW",
+      "title": "Theme 3",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "5tvvx3YWH8S",
+      "title": "Catalog of Tea Types",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "67FKPpk6lYO",
+      "title": "Treats",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6daKXWP2uZj",
+      "title": "Treats 2",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5vYfTu0Prek",
+      "title": "Anatomy of a Tiered Stand",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5b2S3RDea9R",
+      "title": "Loose, Bagged, Powder",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5qeXrJsucFR",
+      "title": "Steeping ",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5hXbYup9Xfh",
+      "title": "Vessels 1",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5b1PkGIpPHx",
+      "title": "Large 1",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6CSRYFZ4eXG",
+      "title": "Large 2",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "6KQJVOLRgcE",
+      "title": "Small (drinking)",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6CvTqgtZvZ8",
+      "title": "Plates, Spoons, Stands, Oh My!\nThis can include any additional pieces that complete the look and practice of the event, from creamers and sugar bowls to cutlery to means of displaying treats.",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "6UoqeE8mNs8",
+      "title": "Tools 2",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "5YTG1Bx91Xm",
+      "title": "Quick Check-In -->\nAre you ready to plan, brew, host?",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "6ZSDaUGFlHj",
+      "title": "Q.1",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "6prWOEYMXWd",
+      "title": "Q.2",
+      "scene_index": "8.3"
+    },
+    {
+      "id": "6BcSR7YeryL",
+      "title": "Q.3",
+      "scene_index": "8.4"
+    },
+    {
+      "id": "6WHlqypL8x7",
+      "title": "Q.4",
+      "scene_index": "8.5"
+    },
+    {
+      "id": "6WbbUAp7wKR",
+      "title": "Closing",
+      "scene_index": "8.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1020,
+    "height": 633
+  },
+  "stage": {
+    "width": 1000,
+    "height": 562
+  }
+}
